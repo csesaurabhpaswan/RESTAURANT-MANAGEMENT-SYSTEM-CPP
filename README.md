@@ -1,7 +1,3 @@
-Certainly! Here’s a similar format for your **Restaurant Management System** README:
-
----
-
 # Restaurant Management System
 
 ## Description
@@ -35,7 +31,7 @@ The **Restaurant Management System** is a C++ application designed to streamline
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Restaurant-Management-System.git
+   git clone https://github.com/csesaurabhpaswan/Restaurant-Management-System.git
    ```
 2. Navigate to the project directory:
    ```bash
